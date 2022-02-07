@@ -221,7 +221,7 @@
                 </div>
                 <div class="col-12 d-block d-md-none d-lg-none d-xl-none d-xxl-none justify-content-center">
                     <i class="fas fa-envelope"></i>
-                    <p>audemarsadish@gmail.com</p>
+                    <p><a href="mailto:audemarsadish@gmail.com">audemarsadish@gmail.com</a></p>
                 </div>
                 <div class="col-12 d-block d-md-none d-lg-none d-xl-none d-xxl-none justify-content-center">
                     <i class="fas fa-map-marker-alt"></i>
