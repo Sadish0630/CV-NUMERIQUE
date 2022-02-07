@@ -1,0 +1,59 @@
+.h1
+{
+    width: 30%;
+    height: 70px;
+    position:relative; 
+}
+.col
+{
+    margin-top: 50px;
+}
+.stick
+{
+    width: 30%;
+    height: 5px;
+    background: #915e4f;
+    margin-top: 45px;
+}
+.color
+{
+    background-color: #915e4f93;
+}
+.colorbox
+{
+    background-color: #915e4f93;
+    width: 30%;
+    height: 245px;
+}
+.h5
+{
+    font-weight: bold;
+    text-align: center;
+}
+.stick2
+{
+    width: 30%;
+    height: 5px;
+    background: #915e4f;
+    margin-bottom: 45px;
+}
+.footerbox
+{
+    background-color: #915e4f;
+}
+.linkpart{
+margin-top: -40px;
+}
+.linkedin{
+   zoom: 200%;
+   margin-top: -3px;
+}
+.github{
+    zoom: 200%;
+    margin-top: -3px;
+ }
+ 
+.diplome
+{
+    margin-top: -40px;
+}
