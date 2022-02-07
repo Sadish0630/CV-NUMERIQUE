@@ -233,10 +233,10 @@
     <div class="container justify-content-between text-center">
         <div class="row text-light linkpart">
             <div class="col 5">
-                <i class="fab fa-linkedin linkedin"></i>
+                <a href="https://www.linkedin.com/in/sadishaudemar/"><i class="fab fa-linkedin linkedin"></i></a>
             </div>
             <div class="col 5">
-                <i class="fab fa-github github"></i>
+            <a href="https://github.com/Sadish0630"><i class="fab fa-github github"></i></a>
             </div>
         </div>
     </div>
