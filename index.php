@@ -7,7 +7,7 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="cvmobile.css" />
+    <link rel="stylesheet" href="style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MON CV NUMERIQUE POUR MOBILE</title>
 </head>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="col fixed-right text-light row align-items-center">
                     <p>
-                        <span class="h1">SADISH AUDEMAR<br />
+                        <span class="h1">Sadish AUDEMAR<br />
                             40ans<br />
                             Opticien
                         </span>
@@ -158,7 +158,7 @@
                         Word, Excel, Logiciels<br />
                         optiques<br/>
                         Programmation =<br/>
-                        HTML, CSS, GIT/GitHub,<br/>
+                        HTML, CSS, <a href="https://github.com/Sadish0630">GitHub</a><br/>
                         BOOTSTRAP, JAVASCRIPT, PHP, WORDPRESS
                     </p>
                 </div>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="col-3 d-none d-md-block d-lg-block d-xl-block d-xxl-block justify-content-center">
                     <i class="fas fa-envelope"></i>
-                    <p>audemarsadish@gmail.com</p>
+                    <p><a href="mailto:audemarsadish@gmail.com">audemarsadish@gmail.com</a></p>
                 </div>
                 <div class="col-3 d-none d-md-block d-lg-block d-xl-block d-xxl-block justify-content-center">
                     <i class="fas fa-map-marker-alt"></i>
